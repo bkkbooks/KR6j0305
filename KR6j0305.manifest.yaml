@@ -1,0 +1,241 @@
+canonical_identifier: bkk:krp/KR6j0305/v1
+canonical_location: https://kanripo.org/bkk/KR6j0305/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 不空羂索陀羅尼自在王呪經
+  identifiers:
+    alt_id:
+    - T20n1097
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1097.xml
+    old_id: T20n1097
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0305_000.yaml, hash: 'sha256:4ce3f8a37b7bf4d5448c4975c1d083b01cb6b0a43a19a103431a87254195ad57'}
+  - {seq: 1, filename: KR6j0305_001.yaml, hash: 'sha256:867ce9bcf6e3b51c798f58d73fd557a52d0687a605bc103773ebf5bc24dcd1ca'}
+  - {seq: 2, filename: KR6j0305_002.yaml, hash: 'sha256:5285e6d1cc8f24bb5b46e68fed3b0e518f1faddae2e35af52850ddb1b4f1eb89'}
+  - {seq: 3, filename: KR6j0305_003.yaml, hash: 'sha256:8686ba60fe868557c63897cd58aefbdecc6ee2999352aec0a84f9a068d54179e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0305_001.markers.yaml, hash: 'sha256:127b4e899e0d777e9789bc6995bc5738cf92e0fbf9f0449b579bb26688f5f3a3'}
+  - {seq: 2, role: markers, filename: assets/KR6j0305_002.markers.yaml, hash: 'sha256:a1e702b6c0c2debab192816bb032833946f67cfe952cdb1ea1f4751e0c65fb43'}
+  - {seq: 3, role: markers, filename: assets/KR6j0305_003.markers.yaml, hash: 'sha256:c56fc3ce8254b98ce5aec0f170a216916319dc0dd68ba0e1935d4499d04472b4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0305_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3138
+  label: '不空羂索陀羅尼自在王呪經
+
+    卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0305_T_001-mulu-1
+    span:
+    - body
+    - 139
+    - 139
+  label: 1 成就尊者說不空神咒功德分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0305_T_001-mulu-2
+    span:
+    - body
+    - 610
+    - 610
+  label: 2 成就受持供養神咒法分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0305_T_001-mulu-3
+    span:
+    - body
+    - 1067
+    - 1067
+  label: 3 成就親見聖觀自在菩薩法分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0305_T_001-mulu-4
+    span:
+    - body
+    - 1365
+    - 1365
+  label: 4 成就畫像幀法分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0305_T_001-mulu-5
+    span:
+    - body
+    - 2682
+    - 2682
+  label: 5 成就使者能辦事法分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0305_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4807
+  label: '不空羂索陀羅尼自在王呪經卷
+
+    中'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0305_T_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 6 成就驅策僮僕使者分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0305_T_002-mulu-2
+    span:
+    - body
+    - 693
+    - 693
+  label: 7 成就吉祥瓶法分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0305_T_002-mulu-3
+    span:
+    - body
+    - 1767
+    - 1767
+  label: 8 成就策使羅剎童子分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0305_T_002-mulu-4
+    span:
+    - body
+    - 2137
+    - 2137
+  label: 9 成就使死屍取伏藏分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0305_T_002-mulu-5
+    span:
+    - body
+    - 2656
+    - 2656
+  label: 10 成就入婇女室分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0305_T_002-mulu-6
+    span:
+    - body
+    - 3249
+    - 3249
+  label: 11 成就眼藥分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0305_T_002-mulu-7
+    span:
+    - body
+    - 3691
+    - 3691
+  label: 12 成就除鬼著病法分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0305_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6695
+  label: '不空羂索陀羅尼自在王呪經卷
+
+    下'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0305_T_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 13 成就入壇法分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0305_T_003-mulu-2
+    span:
+    - body
+    - 3018
+    - 3018
+  label: 14 成就調伏諸龍得自在分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0305_T_003-mulu-3
+    span:
+    - body
+    - 4390
+    - 4390
+  label: 15 成就見不空罥索王法分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0305_T_003-mulu-4
+    span:
+    - body
+    - 5178
+    - 5178
+  label: 16 成就見如來法分
+  type: mulu
+  level: 1
+hash: sha256:17244f3193713d40cdd1b166297b5152ab0c3875d182d3ebb8afb83027d42950
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
