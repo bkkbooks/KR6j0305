@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0305/v1
 canonical_location: https://kanripo.org/bkk/KR6j0305/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 不空羂索陀羅尼自在王呪經
   identifiers:
@@ -31,14 +31,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0305_000.yaml, hash: 'sha256:4ce3f8a37b7bf4d5448c4975c1d083b01cb6b0a43a19a103431a87254195ad57'}
-  - {seq: 1, filename: KR6j0305_001.yaml, hash: 'sha256:f50bd090013b8cd822044923678d67a8e14c45521e53e4fb34d877d82d4c8c2e'}
-  - {seq: 2, filename: KR6j0305_002.yaml, hash: 'sha256:108ed81cb9048dfc0a03813f06528eec8e5210d14ef70a0d149ee5fb94fbad55'}
-  - {seq: 3, filename: KR6j0305_003.yaml, hash: 'sha256:11aa273010f6abdb5142f4b565ebde8141888d761b0a905157159028ae2d3939'}
+  - {seq: 1, filename: KR6j0305_001.yaml, hash: 'sha256:e531255b84b26a5406946e1b4c6323f25db703000a52621218296b812b8105b4'}
+  - {seq: 2, filename: KR6j0305_002.yaml, hash: 'sha256:b05763312f62e517709b20a74b0b393bf01e3f6f08b1545902b8d0a6dc05b67b'}
+  - {seq: 3, filename: KR6j0305_003.yaml, hash: 'sha256:2f8aa99c9ac27efbe86e4ca558471c4e1747eebb662649eb22073178221fa6bb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0305_000.markers.yaml, hash: 'sha256:66d8fc4096af60ddac96140b3d8e1d1b1d5e9cfe7c2bbf71e669f24cb852eca0'}
-  - {seq: 1, role: markers, filename: assets/KR6j0305_001.markers.yaml, hash: 'sha256:b34ff4d1d99efa10d28f27981a513dcbb34ccae2becf0d0adccca6c200ab3035'}
-  - {seq: 2, role: markers, filename: assets/KR6j0305_002.markers.yaml, hash: 'sha256:44fba4882d788f6679fd4875d7bab974ca24b2d1a7f6a705ff57434fabc625b9'}
-  - {seq: 3, role: markers, filename: assets/KR6j0305_003.markers.yaml, hash: 'sha256:f2455227e641a05649245bc7938759afadae797b53a54ef8b906c4ed2e32ced3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0305_001.markers.yaml, hash: 'sha256:1b595b1d855ff1fd01457ccc986bfa8544827e603177fa272fc1b2105094c762'}
+  - {seq: 2, role: markers, filename: assets/KR6j0305_002.markers.yaml, hash: 'sha256:b15ed20cfbb4b4eddc1af2fa47051a981db2ed154856973e3a980ac2265f983c'}
+  - {seq: 3, role: markers, filename: assets/KR6j0305_003.markers.yaml, hash: 'sha256:63722a75249a65453af5d431a5283df61a5c33b72cf196f3b0a9c63d4bae23b6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -236,4 +236,7 @@ table_of_contents:
   label: 16 成就見如來法分
   type: mulu
   level: 1
-hash: sha256:0f2af8e3be01c67892fa63303e6fcbdddaaac13ebbf5f396f5d3133082d18078
+hash: sha256:bc3e6e3e968fc9d0755332ab166c484ea4289c557904f04d2e85fadce4088d0d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
