@@ -24,7 +24,7 @@ assets:
   - {seq: 2, filename: KR6j0305_002-T.yaml, hash: 'sha256:108ed81cb9048dfc0a03813f06528eec8e5210d14ef70a0d149ee5fb94fbad55'}
   - {seq: 3, filename: KR6j0305_003-T.yaml, hash: 'sha256:11aa273010f6abdb5142f4b565ebde8141888d761b0a905157159028ae2d3939'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0305_000-T.markers.yaml, hash: 'sha256:84f7726d93a1664534b7e642912ae51f126d0227590ebe9bc4b00d4c5a909592'}
+  - {seq: 0, role: markers, filename: assets/KR6j0305_000-T.markers.yaml, hash: 'sha256:1233ee847e04c3dd61fad25a08c8ab31074e393f7cb38007138ae6a39521073f'}
   - {seq: 1, role: markers, filename: assets/KR6j0305_001-T.markers.yaml, hash: 'sha256:7605e7a5e49d26f4a244371caf1514af5b3622c25dcc9d4b8477d7ac5ca62928'}
   - {seq: 2, role: markers, filename: assets/KR6j0305_002-T.markers.yaml, hash: 'sha256:2d5a91f8e62eff15825b99b2daacd1f6536f2216f5cf87ab98894c58ff25c33f'}
   - {seq: 3, role: markers, filename: assets/KR6j0305_003-T.markers.yaml, hash: 'sha256:63fa71593fdead7738502415e6563a02058290a7e8643cc1e4ef487c40680f86'}
@@ -225,4 +225,4 @@ table_of_contents:
   label: 16 成就見如來法分
   type: mulu
   level: 1
-hash: sha256:63967e3a19a438b49e310558f8326b98c39f65a3c3b628b8fcc9d9e45c001f2d
+hash: sha256:d3c75f8f2a28b5983803dbde03f22ae8970c9a997ad3712f05886dd3f9a27f81
